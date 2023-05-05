@@ -3,5 +3,5 @@ customuser = "szy_lxh_jcyx"
 custompass = "szy_lxh_jcyx"
 customdb = "employeedb"
 custombucket = "awsbucket.empdb.szylxhjcyx"
-customregion = "us-east-1b"
+customregion = "us-east-1"
 
